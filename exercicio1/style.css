@@ -1,0 +1,26 @@
+h1{
+    background-color: blue;
+    color:#fff;
+}
+
+/* id é mais forte que a tag em questao */
+
+#titulo-importante{
+    background-color: blueviolet;
+}
+
+h2{
+    background-color: yellow;
+}
+section{
+    background-color: green;
+}
+
+.titulo-secao{
+    color:#fff;
+}
+
+footer{
+    background-color: black;
+    color:#fff;
+}
