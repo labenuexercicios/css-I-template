@@ -1,0 +1,23 @@
+/*tag < classes < id*/
+
+#titulo-importante{
+    background-color: blue;
+    color: white
+}
+
+h1, section{
+    background-color: green;
+}
+
+.sub-titulo{
+    background-color: yellow;
+}
+
+.titulo-secao{
+    color: white
+}
+
+.titulo-pouco-importante{
+    color: white;
+    background-color: black;
+}
