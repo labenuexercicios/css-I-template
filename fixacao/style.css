@@ -1,0 +1,39 @@
+/*1*/
+header{
+    height: 40px;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    border-bottom: solid black 1px;
+    /*5*/font-family: arial;
+}
+
+footer{
+    height: 40px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+/*3*/
+main{
+    margin: 15px;
+    padding: 20px 30px;
+    /*padding: 20px 30px 20 px 30px pode ser das duas formas*/
+    height: 80vh;
+    width: 90vw;
+}
+
+/*4*/
+article{
+    margin: 25px 0px;
+}
+
+/*5*/
+p{
+    font-family: helvetica;
+}
+
+/*6*/
+.destaque{
+    color: orange;
+}
