@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tamanho{
+    padding: 10px;
+    height: 40px;
+}
+
+header{
+    background-color: orange;
+    color: white;
+    border-bottom:  1px solid black;
+    
+}
+
+footer{
+    background-color: black;
+    color: white;
+    
+}
+main{
+    margin: 15px;
+    padding: 20px 20px 30px 30px;
+    width: 90vw;
+    height: 80vh;
+}
+
+article{
+    margin-top: 25px; 
+    margin-bottom: 25px;
+}
+h2{
+    font-family: arial;
+}
+p{
+    font-family: helvetica;
+}
+    .destaque{
+        color: orange;
+    }
