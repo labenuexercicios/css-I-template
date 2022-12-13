@@ -1,22 +1,35 @@
+/* Afastando das bordas usando padding. */
 .longe-bordas{
     background-color: #FFA6A9;
+    padding: 0 50px;
   }
-  
+
+  /* Afastando de outros elementos usando o margin */
   .afastado{
     background-color: #77C0ED;
+    margin: 0 20px;
   }
+
+  /* Deixando o elemento alto com height (altura) */
   .alto{
     background-color: #C3E887;
+    height: 300px;
   }
   
+  /* Deixando o elemento largo com width (largura) */
   .largo{
-  background-color: #FFE396;
+    background-color: #FFE396;
+    width: 500px;
   }
   
+  /* Colocando borda usando o border */
   .bordado{
     background-color: #AF9BCC;
+    border: 1px solid black;
   }
   
+  /* Sumindo com o elemento usando display: none; */
   .sumido{
-   
+   display: none;
   }
+  
