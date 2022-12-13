@@ -1,0 +1,27 @@
+/* Trabalhando com ID - Ususamos a # (tralha) antes do id. */
+#titulo-importante{
+    background-color: blue;
+    color: white;
+}
+
+/* Trabalhando com  Tags - Colocamos direto o nome da tag. */
+h2{
+    background-color: yellow;
+}
+
+section{
+    background-color: green;
+}
+
+footer{
+    background-color: black;
+}
+
+/* Trabalhando com Classes - Usamos o . (ponto) antes de cada classe. */
+.titulo-secao{
+    color: white;
+}
+
+.titulo-pouco-importante{
+    color: white;
+}
