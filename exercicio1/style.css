@@ -1,0 +1,23 @@
+/* pd usar header / se usar o id #titulo-importante / h1 */
+header{
+    background-color: blue;
+    color: white;
+}
+/* se vier de class, tem q usar .e o nome */
+
+.sub-titulo{
+    background-color: yellow;
+}
+
+section{
+    background-color: green;
+}
+
+.titulo-secao{
+    color: white;
+}
+
+.titulo-pouco-importante{
+    background-color: black;
+    color: white;
+}
