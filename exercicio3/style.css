@@ -1,25 +1,45 @@
 *{
+  /* usando * e abrindo chave pd alterar toda a letra da pagina */
+  font-family: 'Roboto', sans-serif;
+  /* Tem que sempre resetar o CSS usando padding: 0 e margin: 0, e box-sizing: border-box*/
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
 }
 header{
-  
+  color: brown;
+  margin-bottom: 20px;
 }
-
+main{
+  /* font-family: usando o tipo de letra helvetica, caso n exista usa a sans-serif */
+  font-family: 'Helvetica', sans-serif;
+}
+h2{
+  margin-bottom: 3%;
+}
 section{
   float: left;
 /*float é uma propriedade que permite deixar elementos à direita ou à esquerda da tela. Não costuma ser usado. Aqui, é usado apenas para ilustrar diferenças.*/
-  width: 840px;
-  padding: 40px;
+  font-size: 70%;
+  width: 550px;
+  padding: 2px;
+  /* width: 65.625vw;
+  padding: 3.125vw; */
+  /* vw e porcentagem é a mesma coisa. */
 }
 
 aside{
   float:right;
  /*float é uma propriedade que permite deixar elementos à direita ou à esquerda da tela. Não costuma ser usado. Aqui, é usado apenas para ilustrar diferenças.*/
-  padding: 20px;
+ font-size: 70%;
+  margin-top: 6%;
+  margin-right: 5%;
+  padding: 10px;
   width: 340px;
+  border: 3px solid black;
 }
 
 article{
-  margin: 10px 0;
+  color: cadetblue;
+  margin: 10px;
 }

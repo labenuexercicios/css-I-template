@@ -1,0 +1,40 @@
+*{
+    /* Tem que sempre resetar o CSS usando padding: 0 e margin: 0, e box-sizing: border-box*/
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+header{
+    margin-bottom: 10px;
+    padding: 10px 10px 10px 10px;
+    background-color: orange;
+    color: white;
+    border-bottom: 3px solid black;
+}
+h2{
+    font-family: Arial;
+}
+p{
+    font-family: Helvetica;
+}
+main{
+    /* quando usa so 1 tipo margin: 15px vai 15px pra todos os lados */
+    margin: 15px;
+    padding: 20px 20px 30px 30px;
+    width: 90vw;
+    height: 80vh;
+}
+article{
+    /* quando usa 2 igual margin: 25px e 0 o 25 vai pra cima e pra baixo e o 0 para os lados */
+    margin: 25px 0;
+}
+.destaque{
+    color: orange;
+}
+footer{
+    margin-top: 50px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}

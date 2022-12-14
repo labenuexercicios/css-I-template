@@ -1,22 +1,42 @@
 .longe-bordas{
     background-color: #FFA6A9;
+    padding: 10px 10px 10px 10px;
+    /* pd usar dessa forma tb:
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px; */
   }
   
   .afastado{
     background-color: #77C0ED;
+    margin: 15px 30px 20px 20px;
+    /* margin-right: 15px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px; */
   }
   .alto{
     background-color: #C3E887;
+    margin-bottom: 300px;
+    
   }
   
   .largo{
   background-color: #FFE396;
+  /* Aumentar a largura. */
+  width: 500px;
   }
   
   .bordado{
     background-color: #AF9BCC;
+    border: 5px solid black;
+    /* border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black; */
   }
   
   .sumido{
-   
+    display: none;
   }
