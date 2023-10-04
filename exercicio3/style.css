@@ -13,15 +13,19 @@ main{
 section{
   float: left;
 /*float é uma propriedade que permite deixar elementos à direita ou à esquerda da tela. Não costuma ser usado. Aqui, é usado apenas para ilustrar diferenças.*/
-  width: 840px;
-  padding: 40px;
+  width: 60vw;
+  padding: 5vh;
 }
 
 aside{
   float:right;
  /*float é uma propriedade que permite deixar elementos à direita ou à esquerda da tela. Não costuma ser usado. Aqui, é usado apenas para ilustrar diferenças.*/
-  padding: 20px;
-  width: 340px;
+  padding: 2.3vw;
+  width: 25vw;
+}
+
+img {
+  width: 95%
 }
 
 article{
