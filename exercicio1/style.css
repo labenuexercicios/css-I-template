@@ -1,0 +1,25 @@
+#titulo-importante{
+background-color:blue;
+  
+}
+
+.sub-titulo{
+
+background-color: yellow;
+
+}
+
+.titulo-secao{
+
+background-color:green;
+
+}
+
+.titulo-pouco-importante{
+
+background-color:black;
+color: white;
+font-weight: bold;
+
+
+}
